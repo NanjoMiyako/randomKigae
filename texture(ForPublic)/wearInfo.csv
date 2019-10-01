@@ -1,0 +1,13 @@
+##id,服の形状(マスク)URL,服の表面(テクスチャ)URL, 服のタイプの順にcsvに格納###
+1,C:\HogeHoge\texture\FukuShape\fuku4.bmp,C:\HogeHoge\texture\FukuTexture\texture1.jpg,トップス
+2,C:\HogeHoge\texture\FukuShape\fuku4.bmp,C:\HogeHoge\texture\FukuTexture\texture2.jpg,トップス
+3,C:\HogeHoge\texture\FukuShape\fuku12.bmp,C:\HogeHoge\texture\FukuTexture\texture1.jpg,トップス
+4,C:\HogeHoge\texture\FukuShape\fuku13.bmp,C:\HogeHoge\texture\FukuTexture\texture2.jpg,トップス
+5,C:\HogeHoge\texture\FukuShape\fuku7.bmp,C:\HogeHoge\texture\FukuTexture\texture3.jpg,ボトムス
+6,C:\HogeHoge\texture\FukuShape\fuku7.bmp,C:\HogeHoge\texture\FukuTexture\texture2.jpg,ボトムス
+7,C:\HogeHoge\texture\FukuShape\fuku9.bmp,C:\HogeHoge\texture\FukuTexture\texture1.jpg,ボトムス
+8,C:\HogeHoge\texture\FukuShape\fuku9.bmp,C:\HogeHoge\texture\FukuTexture\texture2.jpg,ボトムス
+9,C:\HogeHoge\texture\FukuShape\fuku10.bmp,C:\HogeHoge\texture\FukuTexture\texture3.jpg,ボトムス
+10,C:\HogeHoge\texture\FukuShape\fuku10.bmp,C:\HogeHoge\texture\FukuTexture\texture1.jpg,ボトムス
+11,C:\HogeHoge\texture\FukuShape\fuku14.bmp,C:\HogeHoge\texture\FukuTexture\texture2.jpg,シューズ
+12,C:\HogeHoge\texture\FukuShape\fuku15.bmp,C:\HogeHoge\texture\FukuTexture\texture3.jpg,シューズ
